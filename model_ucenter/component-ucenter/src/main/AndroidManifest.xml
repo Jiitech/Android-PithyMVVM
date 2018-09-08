@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.netcar.chauffeur.ucenter">
+
+    <application>
+
+        <!-- 登陆 -->
+        <activity android:name=".activity.LoginActivity" />
+        <!-- 忘记密码-->
+        <!-- 确认运行线路 -->
+
+    </application>
+
+</manifest>

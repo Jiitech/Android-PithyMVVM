@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">@color/black</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--主题颜色-->
+    <color name="theme_color">#00a497</color>
+    <!--主题字体颜色-->
+    <color name="font_theme_color">#00a497</color>
+
+    <!--按钮点击颜色-->
+    <color name="common_off_color">#00a497</color>
+    <color name="common_on_color">#00b399</color>
+
+    <!--公共基础颜色-->
+    <color name="gray">#eeeeee</color>
+    <color name="graylight">#d3d3d3</color>
+    <color name="graydark">#A9A9A9</color>
+    <color name="graysmoke">#F5F5F5</color>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+
+    <!--粉红色-->
+    <color name="pinkdeep">#FF1493</color>
+    <color name="pinkhot">#FF69B4</color>
+    <color name="pinklight">#FFB6C1</color>
+
+
+</resources>

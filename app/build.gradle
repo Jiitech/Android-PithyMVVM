@@ -1,0 +1,14 @@
+apply plugin: 'com.android.application'
+apply from: "../gradle_component/baseconfig.gradle"
+
+android {
+    defaultConfig {
+        applicationId "com.jonyker.pithy"
+    }
+}
+
+dependencies {
+    api fileTree(dir: 'libs', include: ['*.jar'])
+    api  project(':model_ucenter:component-ucenter')
+    api  project(':model_main:component-main')
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <!-- 标题字大小 -->
+    <dimen name="remind_title_size">14sp</dimen>
+
+
+
+
+</resources>

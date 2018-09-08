@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main_drawer_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/transparent">
+
+    <!-- 下面显示的主要是主界面内容 -->
+    <RelativeLayout
+        android:id="@+id/main_content_frame_parent"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:background="@android:color/transparent"
+        android:gravity="center">
+
+        <include
+            layout="@layout/main_content" />
+    </RelativeLayout>
+
+    <!-- 左侧滑动栏 -->
+    <RelativeLayout
+        android:id="@+id/main_left_drawer_layout"
+        android:layout_width="240dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        android:background="@color/graysmoke">
+        <include
+            layout="@layout/main_drawer"/>
+    </RelativeLayout>
+
+
+</android.support.v4.widget.DrawerLayout>

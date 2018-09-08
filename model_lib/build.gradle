@@ -1,0 +1,23 @@
+apply plugin: 'com.android.library'
+apply from: "${GRADLES.baseConfig}"
+
+dependencies {
+    api "${DEVDEPS.parceler}"
+    api "${DEVDEPS.router}"
+    api "${DEVDEPS.butterknife}"
+    api "${DEVDEPS.datasupport}"
+    api "${DEVDEPS.fastjson}"
+    api "${SUPPORTDEPS.design}"
+    api "${SUPPORTDEPS.constraint}"
+    api "${SUPPORTDEPS.supportV4}"
+    api "${SUPPORTDEPS.appcompatV7}"
+    api 'com.orhanobut:logger:1.15'
+    api 'io.reactivex:rxjava:1.1.0'
+    api 'io.reactivex:rxandroid:1.1.0'
+    api 'com.squareup.retrofit2:retrofit:2.3.0'
+    api 'com.squareup.retrofit2:converter-gson:2.0.0-beta4'
+    api 'com.squareup.retrofit2:adapter-rxjava:2.0.0-beta4'
+    api 'com.google.code.gson:gson:2.8.0'
+    api 'com.github.ZYRzyr:FastJsonConverter:1.6'
+    api files('libs/javabase64-1.3.1.jar')
+}

@@ -1,0 +1,26 @@
+
+// app壳
+include ':app'
+
+// 基础以后库，依赖中最底层
+include ':model_lib'
+
+// 与业务无关的工具
+include ':model_api:utils'
+include ':model_api:themvp'
+include ':model_api:network'
+
+// 基于业务的基础模块
+include ':model_com:ui'
+include ':model_com:net'
+include ':model_com:pipe'
+include ':model_com:router'
+include ':model_com:entity'
+
+// 用户中心组件模块
+include ':model_ucenter:app-ucenter'
+include ':model_ucenter:component-ucenter'
+
+// main组件模块
+include ':model_main:app-main'
+include ':model_main:component-main'

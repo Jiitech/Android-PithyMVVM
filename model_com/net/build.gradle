@@ -1,0 +1,13 @@
+apply plugin: 'com.android.library'
+apply from: "${GRADLES.baseConfig}"
+apply from: "${GRADLES.processor}"
+
+dependencies {
+    api  fileTree(dir: 'libs', include: ['*.jar'])
+
+    api  project(':model_api:utils')
+    api  project(':model_api:network')
+    api  project(':model_com:entity')
+
+}
+

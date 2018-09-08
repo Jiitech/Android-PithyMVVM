@@ -1,0 +1,28 @@
+apply plugin: 'com.android.library'
+apply from: "${GRADLES.baseConfig}"
+apply from: "${GRADLES.processor}"
+
+
+android {
+    sourceSets {
+        main {
+            res.srcDirs = [
+                    'src/main/res/layouts',
+                    'src/main/res',
+                    'src/main/res/layouts/login',
+                    'src/main/res/layouts/forget',
+            ]
+        }
+
+    }
+}
+dependencies {
+    api fileTree(dir: 'libs', include: ['*.jar'])
+
+    api project(':model_com:ui')
+    api project(":model_com:net")
+    api project(":model_com:entity")
+
+
+
+}

@@ -1,0 +1,21 @@
+<resources>
+
+
+    <string name="login_title">欢迎使用司机端</string>
+    <string name="login_mobile_title">手机号</string>
+    <string name="login_pwd_title">密码</string>
+    <string name="login_btn_text">登陆</string>
+    <string name="login_mobile_hint">请输入您的手机号</string>
+    <string name="login_pwd_hint">请输入登陆密码</string>
+    <string name="login_pwd_show_text">显示</string>
+    <string name="login_pwd_hide_text">隐藏</string>
+    <string name="login_forget_pwd_text">忘记密码?</string>
+    <string name="login_autn_code_text">验证码</string>
+    <string name="mobile_not_empty">手机号不允许为空~</string>
+    <string name="mobile_not_lawful">手机号格式不正确~</string>
+    <string name="passwprd_not_empty">密码不允许为空~</string>
+    <string name="passwprd_not_lawful_6">密码不能少于6位~</string>
+
+
+
+</resources>
