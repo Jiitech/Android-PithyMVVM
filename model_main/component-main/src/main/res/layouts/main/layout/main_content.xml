@@ -18,7 +18,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
-    <com.jonyker.ui.common.slidingtab.SlidingTabLayout
+    <com.wukj.ui.common.weight.slidingtab.SlidingTabLayout
         android:id="@+id/slidingtab"
         android:layout_width="match_parent"
         android:layout_height="50dp"
@@ -27,7 +27,7 @@
         app:layout_constraintTop_toBottomOf="@+id/include">
 
 
-    </com.jonyker.ui.common.slidingtab.SlidingTabLayout>
+    </com.wukj.ui.common.weight.slidingtab.SlidingTabLayout>
 
     <android.support.v4.view.ViewPager
         android:id="@+id/viewpager"

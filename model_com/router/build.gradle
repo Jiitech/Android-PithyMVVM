@@ -4,6 +4,7 @@ apply from: "${GRADLES.processor}"
 
 dependencies {
     api  fileTree(dir: 'libs', include: ['*.jar'])
+
     api  project(":model_lib")
     api  project(":model_com:pipe")
 

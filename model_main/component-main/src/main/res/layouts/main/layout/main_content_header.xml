@@ -48,7 +48,7 @@
         app:layout_constraintStart_toEndOf="@+id/textView"
         app:layout_constraintTop_toTopOf="parent" />
 
-    <com.jonyker.ui.common.image.CircleImageView
+    <com.wukj.ui.common.weight.image.CircleImageView
         android:id="@+id/circleImageView"
         android:layout_width="64dp"
         android:layout_height="64dp"

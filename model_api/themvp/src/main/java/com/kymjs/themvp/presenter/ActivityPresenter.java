@@ -19,7 +19,7 @@ import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 
-import com.jonyker.lib.BaseActivity;
+import com.wukj.lib.CommonActivity;
 import com.kymjs.themvp.view.IDelegate;
 
 /**
@@ -29,7 +29,7 @@ import com.kymjs.themvp.view.IDelegate;
  * @param <T> View delegate class type
  * @author kymjs (http://www.kymjs.com/) on 10/23/15.
  */
-public abstract class ActivityPresenter<T extends IDelegate> extends BaseActivity {
+public abstract class ActivityPresenter<T extends IDelegate> extends CommonActivity {
     protected T viewDelegate;
 
     public ActivityPresenter() {
