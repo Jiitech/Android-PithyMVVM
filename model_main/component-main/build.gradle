@@ -18,7 +18,5 @@ dependencies {
     api fileTree(dir: 'libs', include: ['*.jar'])
 
     api project(':model_com:ui')
-    api project(":model_com:net")
-    api project(":model_com:entity")
 
 }

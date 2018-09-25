@@ -6,8 +6,10 @@ dependencies {
     api  fileTree(dir: 'libs', include: ['*.jar'])
 
     api  project(':model_api:utils')
-    api  project(':model_com:entity')
+    api  project(':model_api:themvp')
     api  project(':model_api:network')
+
+    api  project(':model_com:router')
 
 
 }

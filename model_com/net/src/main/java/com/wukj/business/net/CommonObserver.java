@@ -1,6 +1,6 @@
 package com.wukj.business.net;
 
-import com.wukj.entity.SuperResponseEntity;
+import com.wukj.business.net.entity.SuperResponseEntity;
 
 /**
  * 项目名称：NetCar_Chauffeur

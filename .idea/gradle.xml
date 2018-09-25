@@ -14,7 +14,6 @@
             <option value="$PROJECT_DIR$/model_api/themvp" />
             <option value="$PROJECT_DIR$/model_api/utils" />
             <option value="$PROJECT_DIR$/model_com" />
-            <option value="$PROJECT_DIR$/model_com/entity" />
             <option value="$PROJECT_DIR$/model_com/net" />
             <option value="$PROJECT_DIR$/model_com/pipe" />
             <option value="$PROJECT_DIR$/model_com/router" />

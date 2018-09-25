@@ -4,7 +4,7 @@ import android.content.Context;
 
 import com.blankj.utilcode.util.ToastUtils;
 import com.wukj.business.ucenter.R;
-import com.wukj.entity.request.LoginRequest;
+import com.wukj.business.net.entity.request.LoginRequest;
 import com.wukj.business.net.CommonModel;
 import com.wukj.utils.StringUtils;
 import com.wukj.utils.VerifyUtils;

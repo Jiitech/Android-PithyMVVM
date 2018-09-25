@@ -10,202 +10,64 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7708eba5-ba4a-4842-98ec-ad38b22d6ac1" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/themvp/src/main/java/com/wukj/themvp/aliveful/DefaultLifefulGenerator.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/themvp/src/main/java/com/wukj/themvp/aliveful/Lifeful.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/themvp/src/main/java/com/wukj/themvp/aliveful/LifefulGenerator.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/themvp/src/main/java/com/wukj/themvp/aliveful/LifefulUtil.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/themvp/src/main/java/com/wukj/themvp/aliveful/OnLoadLifefulListener.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/themvp/src/main/java/com/wukj/themvp/aliveful/OnLoadListener.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/subutil/util/BitUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/subutil/util/BrightnessUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/subutil/util/CameraUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/subutil/util/ClipboardUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/subutil/util/CloneUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/subutil/util/CoordinateUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/subutil/util/FlashlightUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/subutil/util/GlideUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/subutil/util/GsonUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/subutil/util/LocationUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/subutil/util/LunarUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/subutil/util/PinyinUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/subutil/util/RomUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/subutil/util/Utils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/subutil/util/VibrationUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/utilcode/constant/CacheConstants.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/utilcode/constant/MemoryConstants.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/utilcode/constant/PermissionConstants.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/utilcode/constant/RegexConstants.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/utilcode/constant/TimeConstants.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/utilcode/util/ActivityUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/utilcode/util/AppUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/utilcode/util/BarUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/utilcode/util/CacheDiskUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/utilcode/util/CacheDoubleUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/utilcode/util/CacheMemoryUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/utilcode/util/CleanUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/utilcode/util/CloseUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/utilcode/util/ConvertUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/utilcode/util/CrashUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/utilcode/util/DateTimeUtil.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/utilcode/util/DensityUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/utilcode/util/DeviceUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/utilcode/util/EncodeUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/utilcode/util/EncryptUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/utilcode/util/FileIOUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/utilcode/util/FileUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/utilcode/util/FragmentUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/utilcode/util/ImageUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/utilcode/util/IntentUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/utilcode/util/KeyboardUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/utilcode/util/LogUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/utilcode/util/MetaDataUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/utilcode/util/NetworkUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/utilcode/util/ObjectUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/utilcode/util/PathUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/utilcode/util/PermissionUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/utilcode/util/PhoneUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/utilcode/util/ProcessUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/utilcode/util/ReflectUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/utilcode/util/RegexUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/utilcode/util/ResourceUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/utilcode/util/SDCardUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/utilcode/util/SPUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/utilcode/util/ScreenUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/utilcode/util/ServiceUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/utilcode/util/ShellUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/utilcode/util/SizeUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/utilcode/util/SnackbarUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/utilcode/util/SpanUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/utilcode/util/StringUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/utilcode/util/ThreadUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/utilcode/util/TimeUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/utilcode/util/ToastUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/utilcode/util/UriUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/utilcode/util/Utils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/utilcode/util/ZipUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_api/utils/src/main/res/xml/util_code_provider_paths.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/model_com/ui/src/main/java/com/wukj/ui/common/weight/TavView.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/model_com/net/src/main/java/com/wukj/business/net/request/OnResultDataListener.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/model_com/net/src/main/java/com/wukj/business/net/request/RequestParams.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/model_com/ui/src/main/java/com/wukj/ui/common/activity/SuperActivity.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/model_com/ui/src/main/java/com/wukj/ui/common/template/SuperTemplate.java" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/resourceHashesCache.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/resourceHashesCache.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/jarAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/jarAnalysis.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskJars.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskJars.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" />
       <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/jonyker/pithy/ClientApplication.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/wukj/pithy/ClientApplication.java" />
-      <change beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
       <change beforePath="$PROJECT_DIR$/model_api/network/network.iml" afterPath="$PROJECT_DIR$/model_api/network/network.iml" />
-      <change beforePath="$PROJECT_DIR$/model_api/network/src/androidTest/java/com/jonyker/ucenter/ExampleInstrumentedTest.java" afterPath="$PROJECT_DIR$/model_api/network/src/androidTest/java/com/wukj/ucenter/ExampleInstrumentedTest.java" />
-      <change beforePath="$PROJECT_DIR$/model_api/network/src/test/java/com/jonyker/ucenter/ExampleUnitTest.java" afterPath="$PROJECT_DIR$/model_api/network/src/test/java/com/wukj/ucenter/ExampleUnitTest.java" />
-      <change beforePath="$PROJECT_DIR$/model_api/themvp/src/androidTest/java/com/jonyker/ucenter/ExampleInstrumentedTest.java" afterPath="$PROJECT_DIR$/model_api/themvp/src/androidTest/java/com/wukj/ucenter/ExampleInstrumentedTest.java" />
-      <change beforePath="$PROJECT_DIR$/model_api/themvp/src/main/java/com/kymjs/themvp/databind/DataBinder.java" afterPath="$PROJECT_DIR$/model_api/themvp/src/main/java/com/kymjs/themvp/databind/DataBinder.java" />
-      <change beforePath="$PROJECT_DIR$/model_api/themvp/src/main/java/com/kymjs/themvp/presenter/ActivityPresenter.java" afterPath="$PROJECT_DIR$/model_api/themvp/src/main/java/com/kymjs/themvp/presenter/ActivityPresenter.java" />
-      <change beforePath="$PROJECT_DIR$/model_api/themvp/src/test/java/com/jonyker/ucenter/ExampleUnitTest.java" afterPath="$PROJECT_DIR$/model_api/themvp/src/test/java/com/wukj/ucenter/ExampleUnitTest.java" />
       <change beforePath="$PROJECT_DIR$/model_api/themvp/themvp.iml" afterPath="$PROJECT_DIR$/model_api/themvp/themvp.iml" />
-      <change beforePath="$PROJECT_DIR$/model_api/utils/src/androidTest/java/com/jonyker/ucenter/ExampleInstrumentedTest.java" afterPath="$PROJECT_DIR$/model_api/utils/src/androidTest/java/com/wukj/ucenter/ExampleInstrumentedTest.java" />
-      <change beforePath="$PROJECT_DIR$/model_api/utils/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/model_api/utils/src/main/AndroidManifest.xml" />
-      <change beforePath="$PROJECT_DIR$/model_api/utils/src/main/java/com/jonyker/utils/DensityUtils.java" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/wukj/utils/DensityUtils.java" />
-      <change beforePath="$PROJECT_DIR$/model_api/utils/src/main/java/com/jonyker/utils/LogUtils.java" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/wukj/utils/LogUtils.java" />
-      <change beforePath="$PROJECT_DIR$/model_api/utils/src/main/java/com/jonyker/utils/StringUtils.java" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/wukj/utils/StringUtils.java" />
-      <change beforePath="$PROJECT_DIR$/model_api/utils/src/main/java/com/jonyker/utils/ToastUtils.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/model_api/utils/src/main/java/com/jonyker/utils/VerifyUtils.java" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/wukj/utils/VerifyUtils.java" />
-      <change beforePath="$PROJECT_DIR$/model_api/utils/src/main/java/com/jonyker/utils/safety/AndroidDes3Utils.java" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/wukj/utils/safety/AndroidDes3Utils.java" />
-      <change beforePath="$PROJECT_DIR$/model_api/utils/src/main/java/com/jonyker/utils/safety/DESUtils.java" afterPath="$PROJECT_DIR$/model_api/utils/src/main/java/com/wukj/utils/safety/DESUtils.java" />
-      <change beforePath="$PROJECT_DIR$/model_api/utils/src/main/res/values/styles.xml" afterPath="$PROJECT_DIR$/model_api/utils/src/main/res/values/styles.xml" />
-      <change beforePath="$PROJECT_DIR$/model_api/utils/src/test/java/com/jonyker/ucenter/ExampleUnitTest.java" afterPath="$PROJECT_DIR$/model_api/utils/src/test/java/com/wukj/ucenter/ExampleUnitTest.java" />
       <change beforePath="$PROJECT_DIR$/model_api/utils/utils.iml" afterPath="$PROJECT_DIR$/model_api/utils/utils.iml" />
-      <change beforePath="$PROJECT_DIR$/model_com/entity/entity.iml" afterPath="$PROJECT_DIR$/model_com/entity/entity.iml" />
-      <change beforePath="$PROJECT_DIR$/model_com/entity/src/main/java/com/jonyker/entity/BaseEntity.java" afterPath="$PROJECT_DIR$/model_com/entity/src/main/java/com/wukj/entity/SuperEntity.java" />
-      <change beforePath="$PROJECT_DIR$/model_com/entity/src/main/java/com/jonyker/entity/BaseRequestEntity.java" afterPath="$PROJECT_DIR$/model_com/entity/src/main/java/com/wukj/entity/SuperRequestEntity.java" />
-      <change beforePath="$PROJECT_DIR$/model_com/entity/src/main/java/com/jonyker/entity/BaseResponseEntity.java" afterPath="$PROJECT_DIR$/model_com/entity/src/main/java/com/wukj/entity/SuperResponseEntity.java" />
-      <change beforePath="$PROJECT_DIR$/model_com/entity/src/main/java/com/jonyker/entity/request/LoginRequest.java" afterPath="$PROJECT_DIR$/model_com/entity/src/main/java/com/wukj/entity/request/LoginRequest.java" />
-      <change beforePath="$PROJECT_DIR$/model_com/entity/src/main/java/com/jonyker/entity/response/ForgetEntity.java" afterPath="$PROJECT_DIR$/model_com/entity/src/main/java/com/wukj/entity/response/ForgetEntity.java" />
-      <change beforePath="$PROJECT_DIR$/model_com/entity/src/main/java/com/jonyker/entity/response/LoginEntity.java" afterPath="$PROJECT_DIR$/model_com/entity/src/main/java/com/wukj/entity/response/LoginEntity.java" />
-      <change beforePath="$PROJECT_DIR$/model_com/entity/src/main/java/com/jonyker/entity/response/OrderEntity.java" afterPath="$PROJECT_DIR$/model_com/entity/src/main/java/com/wukj/entity/response/OrderEntity.java" />
+      <change beforePath="$PROJECT_DIR$/model_com/entity/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model_com/entity/build.gradle" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model_com/entity/entity.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model_com/entity/proguard-rules.pro" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model_com/entity/src/androidTest/java/com/netcar/chauffeur/entity/ExampleInstrumentedTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model_com/entity/src/main/AndroidManifest.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model_com/entity/src/main/java/com/wukj/entity/SuperEntity.java" afterPath="$PROJECT_DIR$/model_com/net/src/main/java/com/wukj/business/net/entity/SuperEntity.java" />
+      <change beforePath="$PROJECT_DIR$/model_com/entity/src/main/java/com/wukj/entity/SuperRequestEntity.java" afterPath="$PROJECT_DIR$/model_com/net/src/main/java/com/wukj/business/net/entity/SuperRequestEntity.java" />
+      <change beforePath="$PROJECT_DIR$/model_com/entity/src/main/java/com/wukj/entity/SuperResponseEntity.java" afterPath="$PROJECT_DIR$/model_com/net/src/main/java/com/wukj/business/net/entity/SuperResponseEntity.java" />
+      <change beforePath="$PROJECT_DIR$/model_com/entity/src/main/java/com/wukj/entity/request/LoginRequest.java" afterPath="$PROJECT_DIR$/model_com/net/src/main/java/com/wukj/business/net/entity/request/LoginRequest.java" />
+      <change beforePath="$PROJECT_DIR$/model_com/entity/src/main/java/com/wukj/entity/response/ForgetEntity.java" afterPath="$PROJECT_DIR$/model_com/net/src/main/java/com/wukj/business/net/entity/response/ForgetEntity.java" />
+      <change beforePath="$PROJECT_DIR$/model_com/entity/src/main/java/com/wukj/entity/response/LoginEntity.java" afterPath="$PROJECT_DIR$/model_com/net/src/main/java/com/wukj/business/net/entity/response/LoginEntity.java" />
+      <change beforePath="$PROJECT_DIR$/model_com/entity/src/main/java/com/wukj/entity/response/OrderEntity.java" afterPath="$PROJECT_DIR$/model_com/net/src/main/java/com/wukj/business/net/entity/response/OrderEntity.java" />
+      <change beforePath="$PROJECT_DIR$/model_com/entity/src/main/res/values/strings.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model_com/entity/src/test/java/com/netcar/chauffeur/entity/ExampleUnitTest.java" afterPath="" />
       <change beforePath="$PROJECT_DIR$/model_com/net/build.gradle" afterPath="$PROJECT_DIR$/model_com/net/build.gradle" />
       <change beforePath="$PROJECT_DIR$/model_com/net/net.iml" afterPath="$PROJECT_DIR$/model_com/net/net.iml" />
-      <change beforePath="$PROJECT_DIR$/model_com/net/src/androidTest/java/com/jonyker/ucenter/ExampleInstrumentedTest.java" afterPath="$PROJECT_DIR$/model_com/net/src/androidTest/java/com/wukj/ucenter/ExampleInstrumentedTest.java" />
-      <change beforePath="$PROJECT_DIR$/model_com/net/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/model_com/net/src/main/AndroidManifest.xml" />
-      <change beforePath="$PROJECT_DIR$/model_com/net/src/main/java/com/jonyker/common/net/common/BaseDataObserver.java" afterPath="$PROJECT_DIR$/model_com/net/src/main/java/com/wukj/business/net/CommonObserver.java" />
-      <change beforePath="$PROJECT_DIR$/model_com/net/src/main/java/com/jonyker/common/net/common/BaseModel.java" afterPath="$PROJECT_DIR$/model_com/net/src/main/java/com/wukj/business/net/SuperModel.java" />
-      <change beforePath="$PROJECT_DIR$/model_com/net/src/main/java/com/jonyker/common/net/common/CommonModel.java" afterPath="$PROJECT_DIR$/model_com/net/src/main/java/com/wukj/business/net/CommonModel.java" />
-      <change beforePath="$PROJECT_DIR$/model_com/net/src/main/java/com/jonyker/common/net/common/RequestCont.java" afterPath="$PROJECT_DIR$/model_com/net/src/main/java/com/wukj/business/net/RequestCont.java" />
-      <change beforePath="$PROJECT_DIR$/model_com/net/src/main/java/com/jonyker/common/net/utils/MyVolley.java" afterPath="$PROJECT_DIR$/model_com/net/src/main/java/com/wukj/business/net/utils/VolleyUtils.java" />
-      <change beforePath="$PROJECT_DIR$/model_com/net/src/test/java/com/jonyker/ucenter/ExampleUnitTest.java" afterPath="$PROJECT_DIR$/model_com/net/src/test/java/com/wukj/ucenter/ExampleUnitTest.java" />
+      <change beforePath="$PROJECT_DIR$/model_com/net/src/main/java/com/wukj/business/net/CommonModel.java" afterPath="$PROJECT_DIR$/model_com/net/src/main/java/com/wukj/business/net/CommonModel.java" />
+      <change beforePath="$PROJECT_DIR$/model_com/net/src/main/java/com/wukj/business/net/CommonObserver.java" afterPath="$PROJECT_DIR$/model_com/net/src/main/java/com/wukj/business/net/CommonObserver.java" />
+      <change beforePath="$PROJECT_DIR$/model_com/net/src/main/java/com/wukj/business/net/SuperModel.java" afterPath="$PROJECT_DIR$/model_com/net/src/main/java/com/wukj/business/net/SuperModel.java" />
       <change beforePath="$PROJECT_DIR$/model_com/pipe/pipe.iml" afterPath="$PROJECT_DIR$/model_com/pipe/pipe.iml" />
-      <change beforePath="$PROJECT_DIR$/model_com/pipe/src/main/java/com/netcar/chauffeur/pipe/inter/LoginPipe.java" afterPath="$PROJECT_DIR$/model_com/pipe/src/main/java/com/wukj/business/pipe/LoginPipe.java" />
       <change beforePath="$PROJECT_DIR$/model_com/router/build.gradle" afterPath="$PROJECT_DIR$/model_com/router/build.gradle" />
       <change beforePath="$PROJECT_DIR$/model_com/router/router.iml" afterPath="$PROJECT_DIR$/model_com/router/router.iml" />
-      <change beforePath="$PROJECT_DIR$/model_com/router/src/main/java/com/netcar/chauffeur/router/interceptors/LoginInterceptor.java" afterPath="$PROJECT_DIR$/model_com/router/src/main/java/com/wukj/business/router/interceptors/LoginInterceptor.java" />
-      <change beforePath="$PROJECT_DIR$/model_com/router/src/main/java/com/netcar/chauffeur/router/routings/CoreRouting.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/model_com/router/src/main/java/com/netcar/chauffeur/router/routings/IRouting.java" afterPath="$PROJECT_DIR$/model_com/router/src/main/java/com/wukj/business/router/routings/IRouting.java" />
-      <change beforePath="$PROJECT_DIR$/model_com/router/src/main/java/com/netcar/chauffeur/router/routings/NewsRouting.java" afterPath="$PROJECT_DIR$/model_com/router/src/main/java/com/wukj/business/router/routings/MainRouting.java" />
-      <change beforePath="$PROJECT_DIR$/model_com/router/src/main/java/com/netcar/chauffeur/router/routings/Routing.java" afterPath="$PROJECT_DIR$/model_com/router/src/main/java/com/wukj/business/router/routings/Routing.java" />
-      <change beforePath="$PROJECT_DIR$/model_com/router/src/main/java/com/netcar/chauffeur/router/routings/UCRouting.java" afterPath="$PROJECT_DIR$/model_com/router/src/main/java/com/wukj/business/router/routings/UCRouting.java" />
-      <change beforePath="$PROJECT_DIR$/model_com/router/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/model_com/router/src/main/res/values/strings.xml" />
-      <change beforePath="$PROJECT_DIR$/model_com/ui/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/model_com/ui/src/main/AndroidManifest.xml" />
-      <change beforePath="$PROJECT_DIR$/model_com/ui/src/main/java/com/jonyker/ui/common/CommonUIActivity.java" afterPath="$PROJECT_DIR$/model_com/ui/src/main/java/com/wukj/ui/common/activity/CommonUIActivity.java" />
-      <change beforePath="$PROJECT_DIR$/model_com/ui/src/main/java/com/jonyker/ui/common/CommonUIFragment.java" afterPath="$PROJECT_DIR$/model_com/ui/src/main/java/com/wukj/ui/common/activity/CommonUIFragment.java" />
-      <change beforePath="$PROJECT_DIR$/model_com/ui/src/main/java/com/jonyker/ui/common/image/CircleImageView.java" afterPath="$PROJECT_DIR$/model_com/ui/src/main/java/com/wukj/ui/common/weight/image/CircleImageView.java" />
-      <change beforePath="$PROJECT_DIR$/model_com/ui/src/main/java/com/jonyker/ui/common/res/LoginUserConf.java" afterPath="$PROJECT_DIR$/model_com/ui/src/main/java/com/wukj/ui/common/res/LoginUserConf.java" />
-      <change beforePath="$PROJECT_DIR$/model_com/ui/src/main/java/com/jonyker/ui/common/slidingtab/SlidingTabLayout.java" afterPath="$PROJECT_DIR$/model_com/ui/src/main/java/com/wukj/ui/common/weight/slidingtab/SlidingTabLayout.java" />
-      <change beforePath="$PROJECT_DIR$/model_com/ui/src/main/java/com/jonyker/ui/common/slidingtab/SlidingTabStrip.java" afterPath="$PROJECT_DIR$/model_com/ui/src/main/java/com/wukj/ui/common/weight/slidingtab/SlidingTabStrip.java" />
+      <change beforePath="$PROJECT_DIR$/model_com/ui/build.gradle" afterPath="$PROJECT_DIR$/model_com/ui/build.gradle" />
+      <change beforePath="$PROJECT_DIR$/model_com/ui/src/main/java/com/wukj/ui/common/activity/CommonUIActivity.java" afterPath="$PROJECT_DIR$/model_com/ui/src/main/java/com/wukj/ui/common/activity/CommonUIActivity.java" />
+      <change beforePath="$PROJECT_DIR$/model_com/ui/src/main/java/com/wukj/ui/common/activity/CommonUIFragment.java" afterPath="$PROJECT_DIR$/model_com/ui/src/main/java/com/wukj/ui/common/activity/CommonUIFragment.java" />
+      <change beforePath="$PROJECT_DIR$/model_com/ui/src/main/java/com/wukj/ui/common/res/LoginUserConf.java" afterPath="$PROJECT_DIR$/model_com/ui/src/main/java/com/wukj/ui/common/res/LoginUserConf.java" />
+      <change beforePath="$PROJECT_DIR$/model_com/ui/src/main/java/com/wukj/ui/common/weight/TavView.java" afterPath="$PROJECT_DIR$/model_com/ui/src/main/java/com/wukj/ui/common/weight/TavView.java" />
       <change beforePath="$PROJECT_DIR$/model_com/ui/ui.iml" afterPath="$PROJECT_DIR$/model_com/ui/ui.iml" />
       <change beforePath="$PROJECT_DIR$/model_lib/model_lib.iml" afterPath="$PROJECT_DIR$/model_lib/model_lib.iml" />
-      <change beforePath="$PROJECT_DIR$/model_lib/src/androidTest/java/com/jonyker/baselib/ExampleInstrumentedTest.java" afterPath="$PROJECT_DIR$/model_lib/src/androidTest/java/com/wukj/baselib/ExampleInstrumentedTest.java" />
-      <change beforePath="$PROJECT_DIR$/model_lib/src/main/java/com/jonyker/lib/BaseActivity.java" afterPath="$PROJECT_DIR$/model_lib/src/main/java/com/wukj/lib/CommonActivity.java" />
-      <change beforePath="$PROJECT_DIR$/model_lib/src/main/java/com/jonyker/lib/BaseApplication.java" afterPath="$PROJECT_DIR$/model_lib/src/main/java/com/wukj/lib/CommonApplication.java" />
-      <change beforePath="$PROJECT_DIR$/model_lib/src/main/java/com/jonyker/lib/delegate/ApplicationDelegate.java" afterPath="$PROJECT_DIR$/model_lib/src/main/java/com/wukj/lib/delegate/ApplicationDelegate.java" />
-      <change beforePath="$PROJECT_DIR$/model_lib/src/main/java/com/jonyker/lib/delegate/ApplicationDispatcher.java" afterPath="$PROJECT_DIR$/model_lib/src/main/java/com/wukj/lib/delegate/ApplicationDispatcher.java" />
-      <change beforePath="$PROJECT_DIR$/model_lib/src/main/java/com/jonyker/lib/delegate/IApplicationDelegate.java" afterPath="$PROJECT_DIR$/model_lib/src/main/java/com/wukj/lib/delegate/IApplicationDelegate.java" />
-      <change beforePath="$PROJECT_DIR$/model_lib/src/main/java/com/jonyker/lib/pipe/Pipe.java" afterPath="$PROJECT_DIR$/model_lib/src/main/java/com/wukj/lib/pipe/Pipe.java" />
-      <change beforePath="$PROJECT_DIR$/model_lib/src/main/java/com/jonyker/lib/pipe/PipeCallback.java" afterPath="$PROJECT_DIR$/model_lib/src/main/java/com/wukj/lib/pipe/PipeCallback.java" />
-      <change beforePath="$PROJECT_DIR$/model_lib/src/main/java/com/jonyker/lib/pipe/PipeException.java" afterPath="$PROJECT_DIR$/model_lib/src/main/java/com/wukj/lib/pipe/PipeException.java" />
-      <change beforePath="$PROJECT_DIR$/model_lib/src/main/java/com/jonyker/lib/pipe/PipeManager.java" afterPath="$PROJECT_DIR$/model_lib/src/main/java/com/wukj/lib/pipe/PipeManager.java" />
-      <change beforePath="$PROJECT_DIR$/model_lib/src/main/java/com/jonyker/lib/router/ComponentPackages.java" afterPath="$PROJECT_DIR$/model_lib/src/main/java/com/wukj/lib/router/ComponentPackages.java" />
-      <change beforePath="$PROJECT_DIR$/model_lib/src/main/java/com/jonyker/lib/router/JMRouteManager.java" afterPath="$PROJECT_DIR$/model_lib/src/main/java/com/wukj/lib/router/JMRouteManager.java" />
-      <change beforePath="$PROJECT_DIR$/model_lib/src/main/java/com/jonyker/lib/tools/ActivityManager.java" afterPath="$PROJECT_DIR$/model_lib/src/main/java/com/wukj/lib/tools/ActivityManager.java" />
-      <change beforePath="$PROJECT_DIR$/model_lib/src/main/java/com/jonyker/lib/tools/EnvironmentVariable.java" afterPath="$PROJECT_DIR$/model_lib/src/main/java/com/wukj/lib/tools/EnvironmentVariable.java" />
-      <change beforePath="$PROJECT_DIR$/model_lib/src/main/java/com/jonyker/lib/tools/SingleContainer.java" afterPath="$PROJECT_DIR$/model_lib/src/main/java/com/wukj/lib/tools/SingleContainer.java" />
-      <change beforePath="$PROJECT_DIR$/model_lib/src/main/java/com/jonyker/lib/tools/ToastTool.java" afterPath="$PROJECT_DIR$/model_lib/src/main/java/com/wukj/lib/tools/ToastTools.java" />
-      <change beforePath="$PROJECT_DIR$/model_lib/src/main/java/com/jonyker/lib/tools/ViewUtils.java" afterPath="$PROJECT_DIR$/model_lib/src/main/java/com/wukj/lib/tools/ViewUtils.java" />
-      <change beforePath="$PROJECT_DIR$/model_lib/src/test/java/com/jonyker/baselib/ExampleUnitTest.java" afterPath="$PROJECT_DIR$/model_lib/src/test/java/com/wukj/baselib/ExampleUnitTest.java" />
-      <change beforePath="$PROJECT_DIR$/model_main/app-main/src/androidTest/java/com/jonyker/ucenter/ExampleInstrumentedTest.java" afterPath="$PROJECT_DIR$/model_main/app-main/src/androidTest/java/com/wukj/ucenter/ExampleInstrumentedTest.java" />
-      <change beforePath="$PROJECT_DIR$/model_main/app-main/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/model_main/app-main/src/main/AndroidManifest.xml" />
-      <change beforePath="$PROJECT_DIR$/model_main/app-main/src/main/java/com/netcar/chauffeur/app/MApplication.java" afterPath="$PROJECT_DIR$/model_main/app-main/src/main/java/com/wukj/business/main/app/MApplication.java" />
-      <change beforePath="$PROJECT_DIR$/model_main/app-main/src/test/java/com/jonyker/ucenter/ExampleUnitTest.java" afterPath="$PROJECT_DIR$/model_main/app-main/src/test/java/com/wukj/ucenter/ExampleUnitTest.java" />
-      <change beforePath="$PROJECT_DIR$/model_main/component-main/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/model_main/component-main/src/main/AndroidManifest.xml" />
-      <change beforePath="$PROJECT_DIR$/model_main/component-main/src/main/java/com/netcar/chauffeur/main/MainApplication.java" afterPath="$PROJECT_DIR$/model_main/component-main/src/main/java/com/wukj/business/main/app/MainApplication.java" />
-      <change beforePath="$PROJECT_DIR$/model_main/component-main/src/main/java/com/netcar/chauffeur/main/activity/MainActivity.java" afterPath="$PROJECT_DIR$/model_main/component-main/src/main/java/com/wukj/business/main/activity/MainActivity.java" />
-      <change beforePath="$PROJECT_DIR$/model_main/component-main/src/main/java/com/netcar/chauffeur/main/databinder/MainDataBinder.java" afterPath="$PROJECT_DIR$/model_main/component-main/src/main/java/com/wukj/business/main/databinder/MainDataBinder.java" />
-      <change beforePath="$PROJECT_DIR$/model_main/component-main/src/main/java/com/netcar/chauffeur/main/delegate/MainDelegate.java" afterPath="$PROJECT_DIR$/model_main/component-main/src/main/java/com/wukj/business/main/delegate/MainDelegate.java" />
-      <change beforePath="$PROJECT_DIR$/model_main/component-main/src/main/res/layouts/main/layout/main_content.xml" afterPath="$PROJECT_DIR$/model_main/component-main/src/main/res/layouts/main/layout/main_content.xml" />
-      <change beforePath="$PROJECT_DIR$/model_main/component-main/src/main/res/layouts/main/layout/main_content_header.xml" afterPath="$PROJECT_DIR$/model_main/component-main/src/main/res/layouts/main/layout/main_content_header.xml" />
-      <change beforePath="$PROJECT_DIR$/model_ucenter/app-ucenter/src/androidTest/java/com/jonyker/ucenter/ExampleInstrumentedTest.java" afterPath="$PROJECT_DIR$/model_ucenter/app-ucenter/src/androidTest/java/com/wukj/ucenter/ExampleInstrumentedTest.java" />
-      <change beforePath="$PROJECT_DIR$/model_ucenter/app-ucenter/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/model_ucenter/app-ucenter/src/main/AndroidManifest.xml" />
-      <change beforePath="$PROJECT_DIR$/model_ucenter/app-ucenter/src/main/java/com/netcar/chauffeur/app/UCApplication.java" afterPath="$PROJECT_DIR$/model_ucenter/app-ucenter/src/main/java/com/wukj/business/ucenter/app/UCApplication.java" />
-      <change beforePath="$PROJECT_DIR$/model_ucenter/app-ucenter/src/test/java/com/jonyker/ucenter/ExampleUnitTest.java" afterPath="$PROJECT_DIR$/model_ucenter/app-ucenter/src/test/java/com/wukj/ucenter/ExampleUnitTest.java" />
+      <change beforePath="$PROJECT_DIR$/model_main/app-main/app-main.iml" afterPath="$PROJECT_DIR$/model_main/app-main/app-main.iml" />
+      <change beforePath="$PROJECT_DIR$/model_main/component-main/build.gradle" afterPath="$PROJECT_DIR$/model_main/component-main/build.gradle" />
+      <change beforePath="$PROJECT_DIR$/model_main/component-main/component-main.iml" afterPath="$PROJECT_DIR$/model_main/component-main/component-main.iml" />
+      <change beforePath="$PROJECT_DIR$/model_main/component-main/src/main/java/com/wukj/business/main/databinder/MainDataBinder.java" afterPath="$PROJECT_DIR$/model_main/component-main/src/main/java/com/wukj/business/main/databinder/MainDataBinder.java" />
+      <change beforePath="$PROJECT_DIR$/model_ucenter/app-ucenter/app-ucenter.iml" afterPath="$PROJECT_DIR$/model_ucenter/app-ucenter/app-ucenter.iml" />
+      <change beforePath="$PROJECT_DIR$/model_ucenter/component-ucenter/build.gradle" afterPath="$PROJECT_DIR$/model_ucenter/component-ucenter/build.gradle" />
       <change beforePath="$PROJECT_DIR$/model_ucenter/component-ucenter/component-ucenter.iml" afterPath="$PROJECT_DIR$/model_ucenter/component-ucenter/component-ucenter.iml" />
-      <change beforePath="$PROJECT_DIR$/model_ucenter/component-ucenter/src/androidTest/java/com/jonyker/ucenter/ExampleInstrumentedTest.java" afterPath="$PROJECT_DIR$/model_ucenter/component-ucenter/src/androidTest/java/com/wukj/ucenter/ExampleInstrumentedTest.java" />
-      <change beforePath="$PROJECT_DIR$/model_ucenter/component-ucenter/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/model_ucenter/component-ucenter/src/main/AndroidManifest.xml" />
-      <change beforePath="$PROJECT_DIR$/model_ucenter/component-ucenter/src/main/java/com/netcar/chauffeur/ucenter/activity/LoginActivity.java" afterPath="$PROJECT_DIR$/model_ucenter/component-ucenter/src/main/java/com/wukj/business/ucenter/activity/LoginActivity.java" />
-      <change beforePath="$PROJECT_DIR$/model_ucenter/component-ucenter/src/main/java/com/netcar/chauffeur/ucenter/application/UCenterApplication.java" afterPath="$PROJECT_DIR$/model_ucenter/component-ucenter/src/main/java/com/wukj/business/ucenter/app/UCenterApplication.java" />
-      <change beforePath="$PROJECT_DIR$/model_ucenter/component-ucenter/src/main/java/com/netcar/chauffeur/ucenter/databinder/LoginDataBinder.java" afterPath="$PROJECT_DIR$/model_ucenter/component-ucenter/src/main/java/com/wukj/business/ucenter/databinder/LoginDataBinder.java" />
-      <change beforePath="$PROJECT_DIR$/model_ucenter/component-ucenter/src/main/java/com/netcar/chauffeur/ucenter/dataobserver/LoginObserver.java" afterPath="$PROJECT_DIR$/model_ucenter/component-ucenter/src/main/java/com/wukj/business/ucenter/dataobserver/LoginObserver.java" />
-      <change beforePath="$PROJECT_DIR$/model_ucenter/component-ucenter/src/main/java/com/netcar/chauffeur/ucenter/delegate/LoginDelegate.java" afterPath="$PROJECT_DIR$/model_ucenter/component-ucenter/src/main/java/com/wukj/business/ucenter/delegate/LoginDelegate.java" />
-      <change beforePath="$PROJECT_DIR$/model_ucenter/component-ucenter/src/main/java/com/netcar/chauffeur/ucenter/model/LoginModel.java" afterPath="$PROJECT_DIR$/model_ucenter/component-ucenter/src/main/java/com/wukj/business/ucenter/model/LoginModel.java" />
-      <change beforePath="$PROJECT_DIR$/model_ucenter/component-ucenter/src/main/java/com/netcar/chauffeur/ucenter/urls/RequestURLs.java" afterPath="$PROJECT_DIR$/model_ucenter/component-ucenter/src/main/java/com/wukj/business/ucenter/urls/RequestURLs.java" />
-      <change beforePath="$PROJECT_DIR$/model_ucenter/component-ucenter/src/main/res/layouts/login/layout/activity_login.xml" afterPath="$PROJECT_DIR$/model_ucenter/component-ucenter/src/main/res/layouts/login/layout/activity_login.xml" />
-      <change beforePath="$PROJECT_DIR$/model_ucenter/component-ucenter/src/test/java/com/jonyker/ucenter/ExampleUnitTest.java" afterPath="$PROJECT_DIR$/model_ucenter/component-ucenter/src/test/java/com/wukj/ucenter/ExampleUnitTest.java" />
+      <change beforePath="$PROJECT_DIR$/model_ucenter/component-ucenter/src/main/java/com/wukj/business/ucenter/activity/LoginActivity.java" afterPath="$PROJECT_DIR$/model_ucenter/component-ucenter/src/main/java/com/wukj/business/ucenter/activity/LoginActivity.java" />
+      <change beforePath="$PROJECT_DIR$/model_ucenter/component-ucenter/src/main/java/com/wukj/business/ucenter/databinder/LoginDataBinder.java" afterPath="$PROJECT_DIR$/model_ucenter/component-ucenter/src/main/java/com/wukj/business/ucenter/databinder/LoginDataBinder.java" />
+      <change beforePath="$PROJECT_DIR$/model_ucenter/component-ucenter/src/main/java/com/wukj/business/ucenter/model/LoginModel.java" afterPath="$PROJECT_DIR$/model_ucenter/component-ucenter/src/main/java/com/wukj/business/ucenter/model/LoginModel.java" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" afterPath="$PROJECT_DIR$/settings.gradle" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -238,31 +100,52 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LoginDelegate.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/model_ucenter/component-ucenter/src/main/java/com/wukj/business/ucenter/delegate/LoginDelegate.java">
+      <file leaf-file-name="Dependencies.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gradle_component/Dependencies.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="101">
-              <caret line="39" column="13" lean-forward="false" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1860#1888#0" expanded="true" />
-                <element signature="e#2184#2212#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-493">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LoginModel.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/model_ucenter/component-ucenter/src/main/java/com/wukj/business/ucenter/model/LoginModel.java">
+      <file leaf-file-name="baseconfig.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gradle_component/baseconfig.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="127">
-              <caret line="35" column="52" lean-forward="false" selection-start-line="35" selection-start-column="52" selection-end-line="35" selection-end-column="52" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1038#1084#0" expanded="true" />
-                <element signature="e#1213#1258#0" expanded="true" />
-                <element signature="e#1376#1425#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-145">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SuperActivity.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/model_com/ui/src/main/java/com/wukj/ui/common/activity/SuperActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SuperTemplate.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model_com/ui/src/main/java/com/wukj/ui/common/template/SuperTemplate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-810">
+              <caret line="27" column="30" lean-forward="false" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="processor.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gradle_component/processor.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="14" lean-forward="false" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -273,6 +156,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -340,10 +224,6 @@
               <ExternalProjectPojo>
                 <option name="name" value=":model_api:utils" />
                 <option name="path" value="$PROJECT_DIR$/model_api/utils" />
-              </ExternalProjectPojo>
-              <ExternalProjectPojo>
-                <option name="name" value=":model_com:entity" />
-                <option name="path" value="$PROJECT_DIR$/model_com/entity" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
                 <option name="name" value=":model_com:net" />
@@ -18038,17 +17918,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/model_main/app-main/src/main/res/values/colors.xml" />
-        <option value="$PROJECT_DIR$/model_main/app-main/src/main/res/values/styles.xml" />
-        <option value="$PROJECT_DIR$/model_ucenter/app-ucenter/src/main/res/values/strings.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/model_api/themvp/src/main/java/com/kymjs/themvp/databind/DataBinder.java" />
-        <option value="$PROJECT_DIR$/model_api/themvp/src/main/java/com/wukj/themvp/aliveful/DefaultLifefulGenerator.java" />
-        <option value="$PROJECT_DIR$/model_api/utils/src/main/java/com/jonyker/utils/ToastUtils.java" />
-        <option value="$PROJECT_DIR$/model_api/utils/src/main/res/values/styles.xml" />
-        <option value="$PROJECT_DIR$/model_api/utils/src/main/java/com/jonyker/utils/safety/DESUtils.java" />
-        <option value="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/utilcode/util/DateTimeUtil.java" />
         <option value="$PROJECT_DIR$/model_api/utils/src/main/java/com/blankj/utilcode/util/DensityUtils.java" />
         <option value="$PROJECT_DIR$/model_api/utils/src/main/java/com/wukj/utils/StringUtils.java" />
         <option value="$PROJECT_DIR$/model_com/entity/src/main/java/com/wukj/entity/BaseEntity.java" />
@@ -18061,12 +17930,8 @@
         <option value="$PROJECT_DIR$/model_com/net/src/main/java/com/wukj/business/net/SuperModel.java" />
         <option value="$PROJECT_DIR$/model_com/router/src/main/java/com/wukj/business/router/interceptors/LoginInterceptor.java" />
         <option value="$PROJECT_DIR$/model_com/router/src/main/res/values/strings.xml" />
-        <option value="$PROJECT_DIR$/model_com/net/build.gradle" />
-        <option value="$PROJECT_DIR$/model_com/router/build.gradle" />
         <option value="$PROJECT_DIR$/model_com/ui/src/main/java/com/wukj/ui/common/weight/slidingtab/SlidingTabStrip.java" />
         <option value="$PROJECT_DIR$/model_com/ui/src/main/java/com/wukj/ui/common/weight/image/CircleImageView.java" />
-        <option value="$PROJECT_DIR$/model_com/ui/src/main/java/com/wukj/ui/common/activity/CommonUIFragment.java" />
-        <option value="$PROJECT_DIR$/model_com/ui/src/main/java/com/wukj/ui/common/res/LoginUserConf.java" />
         <option value="$PROJECT_DIR$/model_main/component-main/src/main/java/com/wukj/business/app/MainApplication.java" />
         <option value="$PROJECT_DIR$/model_main/component-main/src/main/java/com/wukj/business/activity/MainActivity.java" />
         <option value="$PROJECT_DIR$/model_main/component-main/src/main/java/com/wukj/business/delegate/MainDelegate.java" />
@@ -18089,13 +17954,28 @@
         <option value="$PROJECT_DIR$/model_ucenter/component-ucenter/src/main/java/com/wukj/business/ucenter/activity/LoginActivity.java" />
         <option value="$PROJECT_DIR$/model_ucenter/component-ucenter/src/main/java/com/wukj/business/ucenter/delegate/LoginDelegate.java" />
         <option value="$PROJECT_DIR$/model_ucenter/component-ucenter/src/main/java/com/wukj/business/ucenter/model/LoginModel.java" />
+        <option value="$PROJECT_DIR$/model_com/ui/src/main/java/com/wukj/ui/common/activity/CommonUIFragment.java" />
+        <option value="$PROJECT_DIR$/model_com/ui/src/main/java/com/wukj/ui/common/activity/CommonUIActivity.java" />
+        <option value="$PROJECT_DIR$/model_com/ui/src/main/java/com/wukj/ui/common/res/LoginUserConf.java" />
+        <option value="$PROJECT_DIR$/model_com/ui/src/main/java/com/wukj/ui/common/weight/TavView.java" />
+        <option value="$PROJECT_DIR$/model_com/ui/src/main/java/com/wukj/ui/common/template/SuperTemplate.java" />
+        <option value="$PROJECT_DIR$/model_com/ui/src/main/java/com/wukj/ui/common/activity/SuperActivity.java" />
+        <option value="$PROJECT_DIR$/model_com/net/src/main/java/com/wukj/business/net/request/OnResultDataListener.java" />
+        <option value="$PROJECT_DIR$/model_com/net/src/main/java/com/wukj/business/net/entity/SuperResponseEntity.java" />
+        <option value="$PROJECT_DIR$/settings.gradle" />
+        <option value="$PROJECT_DIR$/model_com/router/build.gradle" />
+        <option value="$PROJECT_DIR$/model_com/net/build.gradle" />
+        <option value="$PROJECT_DIR$/model_com/ui/build.gradle" />
+        <option value="$PROJECT_DIR$/model_com/net/src/main/java/com/wukj/business/net/request/RequestParams.java" />
+        <option value="$PROJECT_DIR$/model_main/component-main/build.gradle" />
+        <option value="$PROJECT_DIR$/model_ucenter/component-ucenter/build.gradle" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1366" />
-    <option name="height" value="639" />
+    <option name="height" value="677" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -18137,7 +18017,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -18149,13 +18029,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
     <property name="android.sdk.path" value="$PROJECT_DIR$/../../../android/sdk" />
     <property name="android.project.structure.last.selected" value="SDK Location" />
     <property name="android.project.structure.proportion" value="0.15" />
@@ -18163,21 +18043,22 @@
     <property name="device.picker.selection" value="51b0d656" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/model_com/ui/src/main/res/values" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.wukj.business.ucenter" />
       <recent name="com.netcar.chauffeur.entity" />
       <recent name="com.jonyker.utils" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.wukj.business.net.request" />
+      <recent name="com.blankj.utilcode.util" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/model_api/utils/src/main/java" />
       <recent name="$PROJECT_DIR$/model_api/utils/src/main/res/xml" />
       <recent name="$PROJECT_DIR$/model_api/themvp/src/main/java/com/wukj/themvp/aliveful" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.blankj.utilcode.util" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/model_com/ui/src/main/res/values" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -18440,27 +18321,25 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1366" height="639" extended-state="0" />
+    <frame x="0" y="23" width="1366" height="677" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930514" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39539346" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6429942" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3771107" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5290807" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3383686" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32821497" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24568138" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23640484" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18962432" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930514" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -18473,19 +18352,21 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930514" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24568138" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
-      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.04990403" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5290807" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32821497" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -18498,9 +18379,9 @@
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930514" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39539346" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3771107" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3383686" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29531723" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24568138" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930514" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -18517,214 +18398,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/model_com/net/src/main/java/com/wukj/business/net/CommonObserver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="18" column="17" lean-forward="false" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model_com/net/src/main/java/com/wukj/business/net/CommonModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="34" column="22" lean-forward="false" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
-          <folding>
-            <element signature="e#1808#2589#0" expanded="false" />
-            <element signature="e#2588#2589#0" expanded="false" />
-            <element signature="e#2710#3041#0" expanded="false" />
-            <element signature="e#3040#3041#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model_com/net/src/main/java/com/wukj/business/net/SuperModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="19" column="17" lean-forward="false" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model_com/router/src/main/java/com/wukj/business/router/interceptors/LoginInterceptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model_com/router/src/main/java/com/wukj/business/router/routings/IRouting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="5" column="10" lean-forward="false" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model_com/router/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model_com/entity/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model_com/net/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model_com/pipe/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model_com/router/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model_com/ui/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model_com/ui/src/main/java/com/wukj/ui/common/weight/slidingtab/SlidingTabLayout.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="49" column="13" lean-forward="false" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model_com/ui/src/main/java/com/wukj/ui/common/weight/slidingtab/SlidingTabStrip.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="26" column="6" lean-forward="false" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model_com/ui/src/main/java/com/wukj/ui/common/weight/image/CircleImageView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="47" column="13" lean-forward="false" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model_com/ui/src/main/java/com/wukj/ui/common/activity/CommonUIActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="20" column="22" lean-forward="false" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model_com/ui/src/main/java/com/wukj/ui/common/activity/CommonUIFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model_com/ui/src/main/java/com/wukj/ui/common/weight/TavView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="6" lean-forward="true" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model_com/ui/src/main/java/com/wukj/ui/common/res/LoginUserConf.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-257">
-          <caret line="23" column="44" lean-forward="false" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model_main/component-main/src/main/res/mipmap-hdpi/portrait.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model_main/component-main/src/main/res/layouts/main/layout/main_content_header.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1806">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model_main/component-main/src/main/res/layouts/main/layout/main_drawer.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model_main/component-main/src/main/res/layouts/main/layout/main_content.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-286">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model_main/component-main/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model_main/component-main/src/main/java/com/wukj/business/main/app/MainApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/model_main/component-main/src/main/java/com/wukj/business/main/activity/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -18732,7 +18409,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="427">
           <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -18740,7 +18416,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -18770,7 +18445,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -18778,7 +18452,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -18786,7 +18459,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="12" column="27" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -18794,10 +18466,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="28" column="28" lean-forward="false" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
-          <folding>
-            <element signature="e#644#645#0" expanded="false" />
-            <element signature="e#704#705#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -18805,18 +18473,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
           <caret line="25" column="26" lean-forward="false" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model_lib/src/main/java/com/wukj/lib/CommonActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="18" column="20" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="27" />
-          <folding>
-            <element signature="e#1535#1536#0" expanded="false" />
-            <element signature="e#1581#1582#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -18824,23 +18480,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="148">
           <caret line="52" column="27" lean-forward="false" selection-start-line="52" selection-start-column="27" selection-end-line="52" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/model_com/router/src/main/java/com/wukj/business/router/routings/CoreRouting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="10" lean-forward="false" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/model_com/router/src/main/java/com/wukj/business/router/routings/CoreRouting.java" />
     <entry file="file://$PROJECT_DIR$/model_com/router/src/main/java/com/wukj/business/router/routings/MainRouting.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -18848,7 +18495,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -18856,7 +18502,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -18864,7 +18509,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-776">
           <caret line="35" column="22" lean-forward="false" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -18872,7 +18516,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="564">
           <caret line="233" column="24" lean-forward="false" selection-start-line="233" selection-start-column="24" selection-end-line="233" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -18904,13 +18547,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="41" column="25" lean-forward="false" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1292#1293#0" expanded="false" />
-            <element signature="e#1337#1338#0" expanded="false" />
-            <element signature="e#1616#1636#0" expanded="false" />
-            <element signature="e#1655#1676#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -18929,9 +18565,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="551">
           <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -18950,21 +18583,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="55">
           <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model_ucenter/component-ucenter/src/main/java/com/wukj/business/ucenter/delegate/LoginDelegate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="39" column="13" lean-forward="false" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1860#1888#0" expanded="true" />
-            <element signature="e#2184#2212#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -18972,12 +18590,205 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="127">
           <caret line="35" column="52" lean-forward="false" selection-start-line="35" selection-start-column="52" selection-end-line="35" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_ucenter/component-ucenter/src/main/java/com/wukj/business/ucenter/delegate/LoginDelegate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="39" column="13" lean-forward="false" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/wukj/pithy/ClientApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_lib/src/main/java/com/wukj/lib/CommonActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="32" column="9" lean-forward="false" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_com/ui/src/main/java/com/wukj/ui/common/activity/CommonUIFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="17" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_com/ui/src/main/java/com/wukj/ui/common/res/LoginUserConf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="21" column="3" lean-forward="false" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_com/ui/src/main/java/com/wukj/ui/common/weight/TavView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="3" lean-forward="false" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_com/ui/src/main/java/com/wukj/ui/common/weight/image/CircleImageView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_com/ui/src/main/java/com/wukj/ui/common/activity/CommonUIActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="21" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_com/net/src/main/java/com/wukj/business/net/request/OnResultDataListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="37" lean-forward="false" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_com/net/src/main/java/com/wukj/business/net/entity/SuperEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="22" column="13" lean-forward="false" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_com/net/src/main/java/com/wukj/business/net/entity/SuperRequestEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_com/net/src/main/java/com/wukj/business/net/entity/SuperResponseEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_com/pipe/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_com/router/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_com/net/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_com/ui/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_com/net/src/main/java/com/wukj/business/net/request/RequestParams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3401">
+          <caret line="216" column="40" lean-forward="false" selection-start-line="216" selection-start-column="40" selection-end-line="216" selection-end-column="40" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1038#1084#0" expanded="true" />
-            <element signature="e#1213#1258#0" expanded="true" />
-            <element signature="e#1376#1425#0" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_main/component-main/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_ucenter/component-ucenter/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_com/entity/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle_component/processor.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="14" lean-forward="false" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle_component/Dependencies.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-493">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle_component/baseconfig.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-145">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_com/ui/src/main/java/com/wukj/ui/common/template/SuperTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-810">
+          <caret line="27" column="30" lean-forward="false" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_com/ui/src/main/java/com/wukj/ui/common/activity/SuperActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

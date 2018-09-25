@@ -4,9 +4,9 @@ package com.wukj.business.ucenter.activity;
 import android.view.View;
 
 import com.wukj.business.ucenter.R;
-import com.wukj.entity.SuperResponseEntity;
-import com.wukj.entity.request.LoginRequest;
-import com.wukj.entity.response.LoginEntity;
+import com.wukj.business.net.entity.SuperResponseEntity;
+import com.wukj.business.net.entity.request.LoginRequest;
+import com.wukj.business.net.entity.response.LoginEntity;
 import com.wukj.lib.tools.ToastTools;
 import com.wukj.ui.common.res.LoginUserConf;
 import com.wukj.business.net.CommonObserver;

@@ -15,7 +15,6 @@ include ':model_com:ui'
 include ':model_com:net'
 include ':model_com:pipe'
 include ':model_com:router'
-include ':model_com:entity'
 
 // 用户中心组件模块
 include ':model_ucenter:app-ucenter'

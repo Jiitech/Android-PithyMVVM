@@ -1,6 +1,6 @@
 package com.wukj.business.ucenter.databinder;
 
-import com.wukj.entity.response.LoginEntity;
+import com.wukj.business.net.entity.response.LoginEntity;
 import com.kymjs.themvp.databind.DataBinder;
 import com.wukj.business.ucenter.delegate.LoginDelegate;
 

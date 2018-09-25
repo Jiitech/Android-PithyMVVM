@@ -8,7 +8,6 @@
       <module fileurl="file://$PROJECT_DIR$/model_ucenter/app-ucenter/app-ucenter.iml" filepath="$PROJECT_DIR$/model_ucenter/app-ucenter/app-ucenter.iml" />
       <module fileurl="file://$PROJECT_DIR$/model_main/component-main/component-main.iml" filepath="$PROJECT_DIR$/model_main/component-main/component-main.iml" />
       <module fileurl="file://$PROJECT_DIR$/model_ucenter/component-ucenter/component-ucenter.iml" filepath="$PROJECT_DIR$/model_ucenter/component-ucenter/component-ucenter.iml" />
-      <module fileurl="file://$PROJECT_DIR$/model_com/entity/entity.iml" filepath="$PROJECT_DIR$/model_com/entity/entity.iml" />
       <module fileurl="file://$PROJECT_DIR$/model_api/model_api.iml" filepath="$PROJECT_DIR$/model_api/model_api.iml" />
       <module fileurl="file://$PROJECT_DIR$/model_com/model_com.iml" filepath="$PROJECT_DIR$/model_com/model_com.iml" />
       <module fileurl="file://$PROJECT_DIR$/model_lib/model_lib.iml" filepath="$PROJECT_DIR$/model_lib/model_lib.iml" />

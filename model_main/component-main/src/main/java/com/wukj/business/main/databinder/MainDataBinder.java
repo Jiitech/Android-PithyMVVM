@@ -1,6 +1,6 @@
 package com.wukj.business.main.databinder;
 
-import com.wukj.entity.response.OrderEntity;
+import com.wukj.business.net.entity.response.OrderEntity;
 import com.kymjs.themvp.databind.DataBinder;
 import com.wukj.business.main.delegate.MainDelegate;
 
