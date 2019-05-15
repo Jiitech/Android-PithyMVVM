@@ -13,8 +13,8 @@ import java.util.Map;
  * 项目名称：PithyMVVM
  * 创建时间：2018/9/18 下午6:46
  * 作者：Jonyker
- * 博客：http://www.udevtech.com
- * github：https://github.com/Jiitech
+ * 博客：https://www.jianshu.com/u/07642698e7f4
+ * github：https://github.com/Jonyker
  * 修改人：Jonyker
  * 联系方式：QQ/534098845
  * 修改时间：2018/9/18 下午6:46
