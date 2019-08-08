@@ -4,18 +4,20 @@ import com.wukj.business.net.entity.SuperRequestEntity;
 import com.wukj.business.net.entity.SuperResponseEntity;
 
 /**
- * 项目名称：NetCar_Chauffeur
- * 包名称：com.jonyker.mvp.model.
- * 创建时间：2018/8/7 9:20
+ * 项目名称：Android-Scaffold
+ * 创建时间：2018/11/2 上午 11:19
  * 作者：Jonyker
- * 博客：http://blog.csdn.net/jerry_137188
+ * 简书：https://www.jianshu.com/u/07642698e7f4
  * github：https://github.com/Jonyker
  * 修改人：Jonyker
  * 联系方式：QQ/534098845
- * 修改时间：2018/8/7 9:20
+ * 修改时间：2018/11/2 下午 05:07
  * 备注：
  * 版本：V.1.0
  * 描述：
+ * 1.
+ * 2.
+ * 3.
  */
 public interface SuperModel {
 
